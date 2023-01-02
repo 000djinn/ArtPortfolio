@@ -1,0 +1,12 @@
+<html>
+<head>
+  <title>My Static Website</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Add your HTML content here -->
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
